@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Milch",
+        "categoryName": "Milchprodukte"
+    },
+    {
+        "name": "Brot",
+        "categoryName": "Gebäck"
+    },
+    {
+        "name": "Butter",
+        "categoryName": "Milchprodukte"
+    },
+    {
+        "name": "Bier",
+        "categoryName": "Getränke"
+    },
+    {
+        "name": "Kaffee",
+        "categoryName": "Grundnahrung"
+    },
+    {
+        "name": "Joghurt",
+        "categoryName": "Milchprodukte"
+    }
+]
